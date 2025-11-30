@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello World!! I`m Rehan Aditya Permana 👋
+![Laravel](img/github-header-banner.png)
 
+### Skills
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+
+<img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
+
+### Connect With Me
+![https://instagram.com/rehanxyz02](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/rhnpermana](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)
 <!--
 **rhnpermana/rhnpermana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
